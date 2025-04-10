@@ -1,0 +1,84 @@
+{
+    "hero": {
+        "title": "Easy Sports Facility Management - Increase Revenue, Enhance Experience",
+        "subtitle": "Comprehensive sports facility management solution for venue owners and players",
+        "cta": "Start Today"
+    },
+    "venueOwners": {
+        "title": "For Venue Owners",
+        "subtitle": "Optimize management and increase revenue with professional features",
+        "features": {
+            "realtime": {
+                "title": "Real-time Management",
+                "description": "View court status in real-time: available, booked, in use"
+            },
+            "schedule": {
+                "title": "Flexible Scheduling",
+                "description": "Manage bookings flexibly: daily, weekly, monthly, fixed"
+            },
+            "payment": {
+                "title": "Payment Management",
+                "description": "Manage orders: paid, unpaid, in use"
+            },
+            "sales": {
+                "title": "Diverse Sales",
+                "description": "Sell: beverages, shuttlecocks, rackets, other services"
+            },
+            "statistics": {
+                "title": "Detailed Statistics",
+                "description": "Track revenue, booking history, loyal customers"
+            },
+            "automation": {
+                "title": "Automation",
+                "description": "Automate processes: booking, payment, customer care"
+            }
+        }
+    },
+    "players": {
+        "title": "For Players",
+        "subtitle": "Easy and convenient court booking experience",
+        "features": {
+            "booking": {
+                "title": "Quick Booking",
+                "description": "Book courts online quickly, no waiting"
+            },
+            "search": {
+                "title": "Easy Search",
+                "description": "Find nearby courts, view ratings & rankings"
+            },
+            "payment": {
+                "title": "Convenient Payment",
+                "description": "Safe and convenient online payment"
+            },
+            "rewards": {
+                "title": "Attractive Rewards",
+                "description": "View transaction history, receive member rewards"
+            }
+        }
+    },
+    "sports": {
+        "title": "Various Sports",
+        "subtitle": "Sportime supports booking for various sports",
+        "types": {
+            "pickleball": "Pickleball",
+            "badminton": "Badminton",
+            "tennis": "Tennis",
+            "football": "Football"
+        }
+    },
+    "growth": {
+        "title": "Revenue Growth & Management Efficiency",
+        "subtitle": "Sportime helps optimize court utilization and reduce manual work",
+        "stats": {
+            "capacity": "30% increase in court utilization",
+            "time": "50% reduction in management time",
+            "revenue": "25% average revenue increase"
+        }
+    },
+    "common": {
+        "language": "Language",
+        "vietnamese": "Vietnamese",
+        "english": "English",
+        "slogan": "It's sport time!"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "hero": {
+        "title": "Quản lý sân thể thao dễ dàng – Tăng doanh thu, tăng trải nghiệm",
+        "subtitle": "Giải pháp quản lý sân thể thao toàn diện cho chủ sân và người chơi",
+        "cta": "Bắt đầu ngay hôm nay"
+    },
+    "venueOwners": {
+        "title": "Dành cho chủ sân thể thao",
+        "subtitle": "Tối ưu hóa việc quản lý và tăng doanh thu với các tính năng chuyên nghiệp",
+        "features": {
+            "realtime": {
+                "title": "Quản lý theo thời gian thực",
+                "description": "Xem tình trạng sân theo thời gian thực: trống, đã đặt, đang sử dụng"
+            },
+            "schedule": {
+                "title": "Lịch đặt linh hoạt",
+                "description": "Quản lý lịch đặt linh hoạt: theo ngày, tuần, tháng, cố định"
+            },
+            "payment": {
+                "title": "Quản lý thanh toán",
+                "description": "Quản lý đơn: thanh toán, chưa thanh toán, đang sử dụng"
+            },
+            "sales": {
+                "title": "Bán hàng đa dạng",
+                "description": "Bán hàng: nước uống, cầu, vợt, dịch vụ khác"
+            },
+            "statistics": {
+                "title": "Thống kê chi tiết",
+                "description": "Thống kê doanh thu, lịch sử đặt sân, khách hàng thân thiết"
+            },
+            "automation": {
+                "title": "Tự động hóa",
+                "description": "Tự động hóa quy trình: đặt lịch, thanh toán, chăm sóc khách hàng"
+            }
+        }
+    },
+    "players": {
+        "title": "Dành cho người chơi",
+        "subtitle": "Trải nghiệm đặt sân dễ dàng và thuận tiện",
+        "features": {
+            "booking": {
+                "title": "Đặt sân nhanh chóng",
+                "description": "Đặt sân online nhanh chóng, không cần chờ đợi"
+            },
+            "search": {
+                "title": "Tìm sân dễ dàng",
+                "description": "Tìm kiếm sân gần vị trí, xem đánh giá & xếp hạng"
+            },
+            "payment": {
+                "title": "Thanh toán tiện lợi",
+                "description": "Thanh toán trực tuyến tiện lợi và an toàn"
+            },
+            "rewards": {
+                "title": "Ưu đãi hấp dẫn",
+                "description": "Xem lịch sử giao dịch, nhận ưu đãi cho thành viên thân thiết"
+            }
+        }
+    },
+    "sports": {
+        "title": "Đa dạng môn thể thao",
+        "subtitle": "Sportime hỗ trợ đặt sân cho nhiều môn thể thao khác nhau",
+        "types": {
+            "pickleball": "Pickleball",
+            "badminton": "Cầu lông",
+            "tennis": "Tennis",
+            "football": "Bóng đá"
+        }
+    },
+    "growth": {
+        "title": "Tăng trưởng doanh thu & Hiệu quả quản lý",
+        "subtitle": "Sportime giúp tối ưu hóa công suất sử dụng sân và giảm thiểu công việc thủ công",
+        "stats": {
+            "capacity": "Tăng 30% công suất sử dụng sân",
+            "time": "Giảm 50% thời gian quản lý",
+            "revenue": "Tăng 25% doanh thu trung bình"
+        }
+    },
+    "common": {
+        "language": "Ngôn ngữ",
+        "vietnamese": "Tiếng Việt",
+        "english": "Tiếng Anh",
+        "slogan": "It's sport time!"
+    }
+}
