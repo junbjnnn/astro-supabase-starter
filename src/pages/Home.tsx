@@ -56,7 +56,7 @@ function Home() {
                 {/* Hero Section */}
                 <div className="relative overflow-hidden">
                     {/* Logo + Slogan */}
-                    <div className="absolute top-6 left-4 md:left-10 z-50 flex items-center space-x-2">
+                    <div className="absolute top-4 left-3 z-50 flex items-center space-x-2">
                         <motion.div
                             initial={{ opacity: 0, x: -20 }}
                             animate={{ opacity: 1, x: 0 }}
@@ -68,14 +68,14 @@ function Home() {
                                 alt="Sportime"
                                 className="w-16 h-16"
                             />
-                            <span className="text-white font-bold text-3xl">
+                            <span className="text-white font-bold text-2xl">
                                 {t('common.slogan')}
                             </span>
                         </motion.div>
                     </div>
 
                     {/* Thêm LanguageSwitcher vào đây */}
-                    <div className="absolute top-6 right-6 z-50">
+                    <div className="absolute top-8 right-6 z-50">
                         <LanguageSwitcher />
                     </div>
                     <div className="absolute inset-0">
