@@ -1,9 +1,14 @@
 import { motion } from 'framer-motion';
 import { Layout } from '../layouts/Layout';
+import { SEO as Seo } from '../components/SEO';
 
 export default function Privacy() {
     return (
         <Layout>
+            <Seo
+                title="Chính sách bảo mật - Sportime"
+                description="Chính sách bảo mật của ứng dụng đặt sân thể thao Sportime."
+            />
             <div className="bg-green-600">
                 {/* Header */}
                 <div className="bg-green-600">

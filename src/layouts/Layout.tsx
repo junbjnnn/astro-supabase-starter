@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 interface LayoutProps {
-    children: React.ReactNode;
+    readonly children: React.ReactNode;
 }
 
 export function Layout({ children }: LayoutProps) {
@@ -52,7 +52,7 @@ export function Layout({ children }: LayoutProps) {
                                     </Link>
                                 </li>
                                 <li>
-                                    <a href="#" className="hover:text-white transition-colors">
+                                    <a href="/" className="hover:text-white transition-colors">
                                         Blog
                                     </a>
                                 </li>

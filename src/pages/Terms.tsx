@@ -1,9 +1,14 @@
 import { motion } from 'framer-motion';
 import { Layout } from '../layouts/Layout';
+import { SEO as Seo } from '../components/SEO';
 
 export default function Terms() {
     return (
         <Layout>
+            <Seo
+                title="Chính sách bảo mật - Sportime"
+                description="Chính sách bảo mật của ứng dụng đặt sân thể thao Sportime."
+            />
             <div className="min-h-screen bg-gray-50">
                 {/* Header */}
                 <div className="bg-green-600">

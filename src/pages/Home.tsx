@@ -5,9 +5,10 @@ import sportsFacility from '../assets/sports-facility.png';
 import { Layout } from '../layouts/Layout';
 import { useTranslation } from 'react-i18next';
 import { LanguageSwitcher } from '../components/LanguageSwitcher';
+import { SEO as Seo } from '../components/SEO';
 
 
-function FeatureCard({ icon: Icon, title, description }: { icon: React.ElementType; title: string; description: string }) {
+function FeatureCard({ icon: Icon, title, description }: Readonly<{ icon: React.ElementType; title: string; description: string }>) {
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -25,7 +26,7 @@ function FeatureCard({ icon: Icon, title, description }: { icon: React.ElementTy
     );
 }
 
-function AppStoreButton({ type }: { type: 'google' | 'apple' }) {
+function AppStoreButton({ type }: Readonly<{ type: 'google' | 'apple' }>) {
     return (
         <motion.button
             whileHover={{ scale: 1.05 }}
@@ -52,6 +53,7 @@ function Home() {
 
     return (
         <Layout>
+            <Seo />
             <div className="min-h-screen bg-gray-50">
                 {/* Hero Section */}
                 <div className="relative overflow-hidden">
