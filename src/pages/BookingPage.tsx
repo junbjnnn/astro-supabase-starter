@@ -6,7 +6,7 @@ export default function BookingPage() {
 
     return (
         <iframe
-            src={`/booking/index.html?facility_id=${facility_id}`}
+            src={`/booking/${facility_id}`}
             style={{ width: '100%', height: '100vh', border: 'none' }}
             title="Flutter Booking"
         />
