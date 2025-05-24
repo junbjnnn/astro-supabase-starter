@@ -11,8 +11,7 @@ const AccountDeletion = () => {
             <h2 className="text-xl font-semibold mt-6 mb-2">{t('accountDeletion.howTitle')}</h2>
             <ol className="list-decimal list-inside mb-4">
                 <li>{t('accountDeletion.step1')}</li>
-                <li>{t('accountDeletion.step2')}</li>
-                <li>{t('accountDeletion.step3')}</li>
+                <li>{t('accountDeletion.step4')}</li>
             </ol>
             <h2 className="text-xl font-semibold mt-6 mb-2">{t('accountDeletion.dataTitle')}</h2>
             <ul className="list-disc list-inside mb-4">

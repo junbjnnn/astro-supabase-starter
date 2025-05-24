@@ -83,17 +83,18 @@
     },
     "accountDeletion": {
         "title": "Yêu cầu xóa tài khoản & dữ liệu",
-        "intro": "Trang này giải thích cách người dùng <1>{{app}}</1> (nhà phát triển: <3>{{developer}}</3>) có thể yêu cầu xóa tài khoản và dữ liệu liên quan.",
+        "intro": "Trang này giải thích cách người dùng {{app}} (nhà phát triển: {{developer}}) có thể yêu cầu xóa tài khoản và dữ liệu liên quan.",
         "howTitle": "Cách yêu cầu xóa tài khoản",
-        "step1": "Gửi email đến <1>support@sportime.com</1> từ địa chỉ email liên kết với tài khoản của bạn.",
+        "step1": "Gửi email đến support@sportime.com từ địa chỉ email liên kết với tài khoản của bạn.",
         "step2": "Cung cấp họ tên và thông tin tài khoản để chúng tôi xác định tài khoản của bạn.",
         "step3": "Nêu rõ bạn muốn xóa tài khoản và toàn bộ dữ liệu liên quan.",
+        "step4": "Truy cập ứng dụng, vào mục chi tiết tài khoản và chọn 'Xoá tài khoản'.",
         "dataTitle": "Dữ liệu nào sẽ bị xóa?",
         "data1": "Thông tin tài khoản của bạn (họ tên, email, v.v.)",
         "data2": "Lịch sử đặt sân và các tuỳ chọn cá nhân",
         "data3": "Bất kỳ dữ liệu cá nhân nào khác liên quan đến tài khoản",
         "retentionTitle": "Chính sách lưu trữ dữ liệu",
         "retentionDesc": "Tất cả dữ liệu cá nhân sẽ bị xóa vĩnh viễn trong vòng 30 ngày kể từ khi bạn yêu cầu. Một số dữ liệu không cá nhân hoặc đã được ẩn danh có thể được giữ lại cho mục đích pháp lý hoặc phân tích, theo quy định của pháp luật.",
-        "contact": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ <1>{{email}}</1>."
+        "contact": "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ {{email}}."
     }
 }

@@ -83,17 +83,18 @@
     },
     "accountDeletion": {
         "title": "Account & Data Deletion Request",
-        "intro": "This page explains how users of <1>{{app}}</1> (developer: <3>{{developer}}</3>) can request deletion of their account and associated data.",
+        "intro": "This page explains how users of {{app}} (developer: {{developer}}) can request deletion of their account and associated data.",
         "howTitle": "How to Request Account Deletion",
-        "step1": "Send an email to <1>support@sportime.com</1> from the email address associated with your account.",
+        "step1": "Send an email to support@sportime.com from the email address associated with your account.",
         "step2": "Include your full name and any relevant account information to help us identify your account.",
         "step3": "State clearly that you wish to delete your account and all associated data.",
+        "step4": "Open the app, go to account details, and select 'Delete Account'.",
         "dataTitle": "What Data Will Be Deleted?",
         "data1": "Your account information (name, email, etc.)",
         "data2": "Booking history and preferences",
         "data3": "Any other personal data associated with your account",
         "retentionTitle": "Data Retention Policy",
         "retentionDesc": "All personal data will be permanently deleted within 30 days of your request. Some non-personal or anonymized data may be retained for legal or analytical purposes, as required by law.",
-        "contact": "If you have any questions, please contact us at <1>{{email}}</1>."
+        "contact": "If you have any questions, please contact us at {{email}}."
     }
 }
