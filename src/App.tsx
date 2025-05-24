@@ -5,6 +5,7 @@ import Terms from './pages/Terms';
 import Privacy from './pages/Privacy';
 import { ScrollToTop } from './components/ScrollToTop';
 import BookingPage from './pages/BookingPage';
+import AccountDeletion from './pages/AccountDeletion';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/terms" element={<Terms />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/booking/:facility_id" element={<BookingPage />} />
+        <Route path="/account-deletion" element={<AccountDeletion />} />
       </Routes>
     </HelmetProvider>
   );
